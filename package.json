@@ -14,7 +14,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "lint": "prettier --check 'src/**/*.js'",
+    "lint": "prettier --check src/**/*.js",
     "test": "react-scripts test --env=jsdom"
   },
   "browserslist": {
